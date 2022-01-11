@@ -1,0 +1,5 @@
+Meu primeiro 'Jogo' em Python!
+
+Procuro fazer coisas úteis em breve...
+
+Enfim, espero que isso possa ajudar alguém.
