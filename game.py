@@ -5,7 +5,7 @@ import random
 import os
 
 def Inciar(): #Crio a função Iniciar, que é basicamente um Print de "Bem Vindo", e chamo ela mais em breve na Main.
-    os.system('cls')
+    os.system('cls') #Dá um "Clear" no console.
     print('------------------------------------')
     print('-        Bem vindo Ao PPT!         -')
     print('------------------------------------')
